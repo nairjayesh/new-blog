@@ -1,8 +1,8 @@
 ---
-layout : post
-title : Second Post
-tags : second markdown
-category : demo
+layout: post
+title: Secon Post
+tags: second markdown example
+categories: demo
 ---
 
 This is a paragraph in my second post.
